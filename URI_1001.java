@@ -9,7 +9,7 @@ public class URI_1001{
   int B=abesh.nextInt();
   int X;
   X = A + B ;
-  System.out.println(X+"\n");
+  System.out.println("X = " + X);
                                            
                                             
    }
