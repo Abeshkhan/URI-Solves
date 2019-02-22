@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class URI_1001{
+public class Main{
   public static void main (String args[]){
  Scanner abesh =new Scanner(System.in);
   System.out.println("Enter First Number");
